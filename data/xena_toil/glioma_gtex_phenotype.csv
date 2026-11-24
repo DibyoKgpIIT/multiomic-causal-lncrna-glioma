@@ -1,0 +1,1847 @@
+sample,detailed_category,primary disease or tissue,_primary_site,_sample_type,_gender,_study
+TCGA-06-0675-11,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Solid Tissue Normal,,TCGA
+TCGA-06-0678-11,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Solid Tissue Normal,,TCGA
+TCGA-06-0680-11,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Solid Tissue Normal,,TCGA
+TCGA-06-0681-11,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Solid Tissue Normal,,TCGA
+TCGA-06-AABW-11,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Solid Tissue Normal,,TCGA
+TCGA-06-0152-02,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Recurrent Tumor,Male,TCGA
+TCGA-06-0171-02,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Recurrent Tumor,Male,TCGA
+TCGA-06-0190-02,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Recurrent Tumor,Male,TCGA
+TCGA-19-1389-02,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Recurrent Tumor,Male,TCGA
+TCGA-14-0736-02,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Recurrent Tumor,Male,TCGA
+TCGA-06-0211-02,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Recurrent Tumor,Male,TCGA
+TCGA-19-4065-02,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Recurrent Tumor,Male,TCGA
+TCGA-06-0221-02,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Recurrent Tumor,Male,TCGA
+TCGA-06-0210-02,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Recurrent Tumor,Female,TCGA
+TCGA-06-0125-02,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Recurrent Tumor,Female,TCGA
+TCGA-14-1034-02,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Recurrent Tumor,Female,TCGA
+TCGA-14-1402-02,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Recurrent Tumor,Female,TCGA
+TCGA-19-0957-02,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Recurrent Tumor,Female,TCGA
+TCGA-41-2571-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-16-0846-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-2559-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-32-2634-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-2562-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-32-2632-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-02-0047-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-2557-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-76-4925-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0878-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-08-0386-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-26-5132-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-26-5134-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0158-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-28-5204-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-28-5213-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-32-1980-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0644-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-28-5207-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-14-1825-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-19-2620-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0187-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0743-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-14-0787-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-76-4926-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0219-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-5413-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-28-5220-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-41-2572-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0744-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-27-1831-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-32-5222-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-2567-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-15-0742-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0184-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-5859-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-27-2523-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-28-5218-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0141-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0190-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-12-0821-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-27-2528-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-32-2615-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-5414-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0646-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-5415-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-12-0619-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-12-3652-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-19-2629-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0745-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-2565-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-26-5133-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-28-2499-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-32-1970-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-5856-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-76-4927-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0156-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-14-1829-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-27-1830-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-19-5960-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-27-1834-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-27-2524-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0130-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0174-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-14-0789-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-02-2485-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0686-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0747-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-28-1753-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-28-5208-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-28-5216-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-5411-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-19-2624-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0749-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-2564-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0132-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-12-0618-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-14-0781-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-19-1787-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-27-2519-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-41-3915-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0211-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0238-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-12-3650-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-28-2514-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-28-1747-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-02-2483-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0138-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0750-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-26-1442-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0139-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0178-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-19-4065-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-27-1837-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-27-2521-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0129-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-06-0882-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-15-1444-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Male,TCGA
+TCGA-76-4928-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-06-1804-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-27-2526-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-06-5412-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-26-5136-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-28-2509-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-19-2625-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-32-1982-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-76-4929-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-06-2558-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-06-5418-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-14-0871-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-06-0649-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-06-0210-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-06-2563-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-06-5410-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-26-5135-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-76-4931-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-14-0817-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-28-2513-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-28-5209-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-26-5139-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-14-0790-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-06-0125-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-06-0157-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-19-1390-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-41-4097-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-02-0055-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-12-1597-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-28-5215-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-12-5295-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-14-1034-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-06-0168-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-27-1832-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-41-5651-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-14-1823-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-12-5299-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-06-0645-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-19-2619-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-06-5408-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-06-2561-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-27-1835-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-14-2554-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-76-4932-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-16-1045-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-32-2616-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-32-4213-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-06-5417-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-06-5858-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-12-0616-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-12-3653-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-06-2569-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-06-5416-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-06-2570-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,Female,TCGA
+TCGA-28-2510-01,Glioblastoma Multiforme,Glioblastoma Multiforme,Brain,Primary Tumor,,TCGA
+TCGA-DH-A669-02,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Recurrent Tumor,Male,TCGA
+TCGA-DU-6397-02,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Recurrent Tumor,Male,TCGA
+TCGA-DU-7304-02,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Recurrent Tumor,Male,TCGA
+TCGA-TQ-A7RK-02,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Recurrent Tumor,Male,TCGA
+TCGA-TQ-A7RV-02,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Recurrent Tumor,Male,TCGA
+TCGA-FG-5963-02,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Recurrent Tumor,Male,TCGA
+TCGA-DU-5872-02,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Recurrent Tumor,Female,TCGA
+TCGA-TQ-A8XE-02,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Recurrent Tumor,Female,TCGA
+TCGA-TM-A7CF-02,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Recurrent Tumor,Female,TCGA
+TCGA-FG-5965-02,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Recurrent Tumor,Female,TCGA
+TCGA-DU-6407-02,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Recurrent Tumor,Female,TCGA
+TCGA-DU-5870-02,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Recurrent Tumor,Female,TCGA
+TCGA-FG-A4MT-02,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Recurrent Tumor,Female,TCGA
+TCGA-DU-6404-02,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Recurrent Tumor,Female,TCGA
+TCGA-DU-A76K-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7616-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7687-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-E1-A7YS-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DH-A669-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-A5TT-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-FG-6690-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A89V-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-7292-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A7R2-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HW-A5KJ-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-CS-4941-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-7306-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7475-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-6393-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7882-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-A61C-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-QH-A6CX-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A6UA-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-TQ-A7RP-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-VW-A8FI-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-WH-A86K-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-8109-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HW-A5KK-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-E1-A7YM-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-FG-6692-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-FG-A4MW-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-TM-A84J-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-FG-5964-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7477-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7854-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-8107-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-A74H-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-IK-8125-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DB-5281-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7608-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-A6S3-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-FG-A6IZ-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7694-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-WY-A85D-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DB-5279-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DB-A64O-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-7013-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-7014-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7688-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-CS-6186-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-FG-A4MU-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7684-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A6WD-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-VM-A8CD-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-E1-A7YD-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-8110-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A7IX-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-6410-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-A7TB-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7875-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-A7TJ-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-E1-A7YJ-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-8011-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DB-A64V-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-6399-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-A76L-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-FG-5962-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7467-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-8105-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-QH-A65Z-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-VM-A8CA-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-6394-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-7301-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7677-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-8106-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DH-A66B-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-6402-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-A7TD-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-E1-A7YK-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7474-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-R8-A6ML-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A6UB-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A6WL-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-8164-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-A5TR-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-A76R-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-QH-A6CV-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-TQ-A7RU-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-CS-4944-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DH-A7US-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7604-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A6TV-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A6TY-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DH-A66F-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DH-A7UV-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-FG-7637-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-CS-6188-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-5849-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-FG-7636-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-QH-A6XC-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-TM-A84F-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DB-A75M-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-FG-A4MX-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-8564-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-A614-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-A617-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-P5-A737-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-QH-A6X4-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-RY-A840-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-W9-A837-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-E1-A7YL-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A6TX-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A6U0-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A7R4-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-TM-A84R-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-E1-A7YO-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-RY-A83Y-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-RY-A847-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-F6-A8O4-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7479-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-TM-A7CA-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-VV-A829-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-CS-5395-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-CS-6670-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DB-5280-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DH-A7UU-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7692-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-IK-7675-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-QH-A6CW-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A7J1-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-A5TS-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-E1-5304-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-E1-A7YU-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7485-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A6WP-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-E1-5302-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-FG-8188-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HW-7490-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-QH-A6CS-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A7QZ-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-CS-5394-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DB-A64P-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-A7TG-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7620-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-R8-A6MK-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A6TW-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A89Z-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-TM-A84B-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-TM-A84M-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-CS-5393-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-7019-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7481-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7855-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HW-7487-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HW-8322-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-P5-A5EV-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-P5-A5EZ-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A7IY-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-TQ-A7RH-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DB-A4XB-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-E1-5303-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7472-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7605-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7881-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HW-7489-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-QH-A6CY-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-QH-A6CZ-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A6TU-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-TQ-A7RR-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-CS-4943-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-FG-8185-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7470-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HW-7486-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DB-5275-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7478-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7611-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-8114-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HW-8320-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A6U9-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-TM-A84S-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-TQ-A7RG-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-WY-A85C-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-A7T8-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-E1-A7Z4-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-FG-8182-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7856-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HW-7491-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HW-A5KM-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-P5-A5EU-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-P5-A72W-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A7R1-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DB-5277-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DB-A4XG-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-E1-5305-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-F6-A8O3-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7609-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-A74O-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A6WE-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DB-5273-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-7007-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-7299-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-A5TP-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7480-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-A74J-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-P5-A5F0-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-QH-A86X-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A6U5-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-VM-A8CB-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DB-5276-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DB-A4XD-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DH-5141-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-A7TA-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-A7TC-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-A7TI-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-8111-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-TM-A84C-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-TQ-A7RN-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-TQ-A7RW-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-CS-6290-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-6395-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-E1-5311-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-FG-7641-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-FG-8187-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7879-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HW-8321-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A6WG-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-TM-A84L-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-TM-A84Q-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DB-A4XA-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DH-5143-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DH-A7UT-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-A76O-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-FG-6689-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-FG-8191-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7468-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7469-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7880-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-P5-A5F1-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-RY-A843-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-TM-A7C5-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-TM-A84I-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DB-A75O-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DH-5142-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-5853-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-8163-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7603-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7690-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7873-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A6WO-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-TQ-A7RK-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-TQ-A7RO-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-E1-A7YW-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-FG-7634-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7473-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7858-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A6U6-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-P5-A5ET-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-QH-A6X3-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A7R7-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-TQ-A7RV-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DB-A4XC-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7476-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7676-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-KT-A74X-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-P5-A5F6-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-6542-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-7011-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-FN-7833-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A7J2-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-VM-A8CE-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-A5RB-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-S9-A6U8-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-WY-A85B-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-FG-5963-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-FG-8181-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-CS-6666-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-A61B-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-P5-A730-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7602-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-8015-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-P5-A5EY-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-P5-A72X-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DB-A64S-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-WY-A85A-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-TM-A84T-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DB-5278-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-HT-7483-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Male,TCGA
+TCGA-DU-7012-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-A6S8-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-FG-A713-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-A7T6-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-QH-A6X9-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-S9-A6WH-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-P5-A72U-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-A5RC-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-8167-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DB-A64L-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-6400-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DB-A64W-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-A5RA-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-8010-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-P5-A72Z-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-8161-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-E1-A7YN-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-5874-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-A5TU-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-E1-5307-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-5852-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-8162-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-FG-A87Q-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-7607-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-TM-A84O-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-6403-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-7006-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-8165-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-7860-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DH-A7UR-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-6406-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-FG-6688-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-P5-A731-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-S9-A6WM-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-7010-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-E1-A7YQ-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-E1-A7Z2-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-7689-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-A74K-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-QH-A6X5-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-CS-6668-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-5854-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-7018-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-8158-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DB-A64X-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DH-5144-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-QH-A6X8-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-S9-A6WI-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DB-A75K-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-8168-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-A4DS-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-P5-A77X-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-CS-5397-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-RY-A83Z-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-S9-A7QW-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-TM-A84G-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-CS-5396-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DB-A4XH-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-7294-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-7300-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-FG-A70Z-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-R8-A6MO-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-FG-A6J3-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-P5-A733-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-QH-A6CU-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-S9-A7J3-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-6405-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-7693-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-8104-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-A4DV-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-A619-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-FG-A710-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-VM-A8C8-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-5855-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-FG-7643-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-8113-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-7302-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-E1-5319-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-A5R9-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-R8-A73M-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-S9-A6TS-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-S9-A6U2-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-S9-A7IZ-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-WY-A85E-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-CS-5390-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-E1-A7YH-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-EZ-7264-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-FG-A60J-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-A5TY-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-RY-A83X-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-7290-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HW-7495-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-KT-A7W1-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-S9-A7IQ-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-CS-4942-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-FG-A4MY-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-FG-A6J1-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-7884-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-P5-A736-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-P5-A780-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-S9-A7R8-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-TM-A84H-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-VM-A8CF-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DH-A66D-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-5872-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-QH-A65V-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-TM-A7C3-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-E1-5318-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-FG-8186-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HW-A5KL-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-TQ-A8XE-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DB-A4XF-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-7008-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-7015-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-7309-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-E1-A7Z6-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-7874-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-P5-A5EX-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-TM-A7CF-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-TQ-A7RM-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-8018-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HW-7493-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-RY-A845-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-CS-6667-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-FG-5965-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-S9-A6TZ-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-TM-A7C4-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DB-5270-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DB-A64U-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DH-5140-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-7298-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-E1-5322-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-A615-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-P5-A735-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-QH-A65R-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-QH-A870-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-S9-A6WN-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-TQ-A7RQ-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DB-5274-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-5871-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-A6S2-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-FG-A87N-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-7471-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-A618-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-P5-A77W-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-TQ-A7RI-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-VM-A8C9-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DB-A75L-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-A616-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-P5-A5F2-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-S9-A7QX-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-VV-A86M-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-6392-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-6407-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-A6S6-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-P5-A5F4-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-S9-A7QY-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-VW-A7QS-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-5847-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-5870-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-FG-A60K-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-FG-A60L-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-8019-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HW-8319-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-P5-A781-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-WY-A859-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DB-A4X9-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-A5TW-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-E1-A7YI-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-FG-8189-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-FG-A711-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-A5R5-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-A5R7-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-S9-A7IS-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-7009-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-E1-A7YE-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-7680-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-QH-A65S-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-WY-A858-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-CS-4938-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DB-A64Q-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-6396-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-6401-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-E1-A7Z3-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-FG-7638-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-7691-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-7601-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-7606-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-7902-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-8012-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-8563-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-S9-A7J0-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-8166-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-7681-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-7686-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-7695-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-8558-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-QH-A65X-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-S9-A7R3-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DB-A4XE-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-A6S7-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-E1-A7YY-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-FG-A4MT-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-TQ-A7RF-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-CS-6669-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-E1-A7YV-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-8108-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DB-A75P-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-7610-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-TQ-A7RJ-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-TQ-A7RS-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DB-A64R-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-6404-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-7857-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-VM-A8CH-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-DU-6408-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-FG-6691-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-QH-A6XA-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-A74L-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-S9-A6U1-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-FG-A70Y-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-7877-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-A61A-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-P5-A5EW-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-HT-7482-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,Female,TCGA
+TCGA-R8-A6YH-01,Brain Lower Grade Glioma,Brain Lower Grade Glioma,Brain,Primary Tumor,,TCGA
+GTEX-13SLW-0011-R4b-SM-5S2W2,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-13RTJ-0011-R4b-SM-5PNX1,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-WVLH-0011-R4A-SM-3MJFS,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-147GR-0011-R4a-SM-5S2V2,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-13N2G-0011-R4b-SM-5MR54,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-13N1W-0011-R4a-SM-5MR52,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-WHSE-0011-R4A-SM-3P5ZN,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-14ABY-0011-R4b-SM-5S2VN,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-13NYS-0011-R4b-SM-5MR3O,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-1445S-0011-R4a-SM-5PNWN,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-X585-0011-R4B-SM-46MVH,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-13OW7-0011-R4b-SM-5O9CX,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-13OW5-0011-R4b-SM-5L3HS,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-NPJ8-0011-R4a-SM-2HML3,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-12WSA-0011-R4a-SM-57WB7,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-P44G-0011-R4A-SM-2I3FB,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-N7MS-0011-R4a-SM-2HMKW,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-13OW6-0011-R4a-SM-5O9DX,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-S7SE-0011-R4A-SM-2XCDB,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-13X6J-0011-R4b-SM-5P9K4,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-13O3Q-0011-R4a-SM-5P9H2,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-12WSF-0011-R4b-SM-5HL88,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-13JVG-0011-R4a-SM-5MR4C,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-QMR6-0011-R4A-SM-32PKU,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-XLM4-0011-R4B-SM-4AT5C,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-13VXU-0011-R4b-SM-5O9CI,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-WZTO-0011-R4A-SM-3NMC7,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-131XH-0011-R4b-SM-5DUWB,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-X4XX-0011-R4B-SM-46MWL,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-13112-0011-R4b-SM-5DUXL,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-139T8-0011-R4a-SM-5HL54,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-13CZV-0011-R4b-SM-5J2NY,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-144GL-0011-R4a-SM-5PNUI,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-P44H-0011-R4A-SM-2XCEW,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-1399T-0011-R4b-SM-5DUVX,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-13OVH-0011-R4a-SM-5KM3W,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-13OVL-0011-R4b-SM-5L3HV,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-139UC-0011-R4a-SM-5K7XM,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-ZE9C-0011-R4a-SM-4WKH6,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-T6MN-0011-R4A-SM-32QPG,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-12ZZW-0011-R4a-SM-5DUX9,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-12ZZZ-0011-R4b-SM-5DUV7,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-13FLV-0011-R4a-SM-5LZYU,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-RVPU-0011-R4A-SM-5SI8K,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-11ZU8-0011-R4a-SM-5BC6Y,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-RVPU-0011-R4A-SM-2TF6X,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-T6MN-0011-R4A-SM-5CHSD,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Male,GTEX
+GTEX-131YS-0011-R4a-SM-5DUVL,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Female,GTEX
+GTEX-X4EP-0011-R4B-SM-3P627,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Female,GTEX
+GTEX-N7MT-0011-R4a-SM-2I3G9,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Female,GTEX
+GTEX-13OVJ-0011-R4b-SM-5P9H5,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Female,GTEX
+GTEX-12WSD-0011-R4b-SM-5LZUA,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Female,GTEX
+GTEX-13SLX-0011-R4a-SM-5O9BJ,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Female,GTEX
+GTEX-Q2AG-0011-R4A-SM-2HMKA,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Female,GTEX
+GTEX-13X6K-0011-R4b-SM-5P9HO,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Female,GTEX
+GTEX-YFC4-0011-R4a-SM-4RGLQ,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Female,GTEX
+GTEX-QVJO-0011-R4A-SM-2S1QL,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Female,GTEX
+GTEX-145LS-0011-R4b-SM-5S2UT,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Female,GTEX
+GTEX-ZVZQ-0011-R4b-SM-57WCZ,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Female,GTEX
+GTEX-1313W-0011-R4b-SM-5KLZV,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Female,GTEX
+GTEX-145MI-0011-R4b-SM-5PNZH,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Female,GTEX
+GTEX-12WS9-0011-R4b-SM-5P9EU,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Female,GTEX
+GTEX-13O3O-0011-R4b-SM-5KM3F,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Female,GTEX
+GTEX-14BIM-0011-R4b-SM-5S2RK,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Female,GTEX
+GTEX-NPJ7-0011-R4a-SM-2I3GJ,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Female,GTEX
+GTEX-RNOR-0011-R4A-SM-3GAD3,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Female,GTEX
+GTEX-13QIC-0011-R4a-SM-5PNX8,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Female,GTEX
+GTEX-11ZVC-0011-R4a-SM-5BC6Z,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Female,GTEX
+GTEX-QVUS-0011-R4A-SM-3GAE7,Brain - Amygdala,Brain - Amygdala,Brain,Normal Tissue,Female,GTEX
+GTEX-14ABY-0011-R9a-SM-5PNZK,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-13FXS-0011-R9a-SM-5K7UI,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-ZAB4-0011-R9a-SM-4SOKG,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-139UC-0011-R9a-SM-5K7W7,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-WL46-0011-R9A-SM-3MJFP,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-13N2G-0011-R9b-SM-5MR4E,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-14BIL-0011-R9a-SM-5SI7A,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-13OVL-0011-R9a-SM-5P9GX,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-147GR-0011-R9a-SM-5S2UY,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-12WSC-0011-R9a-SM-5GU4U,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-RVPU-0011-R9A-SM-3NM8E,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-YJ89-0011-R9a-SM-4SOK7,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-ZE9C-0011-R9a-SM-4WWCY,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-13RTJ-0011-R9a-SM-5Q5AY,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-13PVQ-0011-R9b-SM-5LU3B,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-12126-0011-R9b-SM-5BC6P,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-145LU-0011-R9b-SM-5SI66,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-13N1W-0011-R9b-SM-5MR4R,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-NL4W-0011-R9a-SM-2I3G1,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-13NZA-0011-R9b-SM-5MR5I,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-NPJ8-0011-R9a-SM-2YUN5,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-13CIG-0011-R9a-SM-5K7VU,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-11ONC-0011-R9b-SM-5NQ8J,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-12WSH-0011-R9b-SM-5LZUG,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-13CZV-0011-R9a-SM-5LZXT,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-XLM4-0011-R9A-SM-4AT45,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-139UW-0011-R9b-SM-5LZYT,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-13O1R-0011-R9b-SM-5KM33,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-R55E-0011-R9A-SM-2TC6C,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-11ZUS-0011-R9b-SM-5BC76,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-13NYS-0011-R9b-SM-5MR44,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-148VJ-0011-R9b-SM-5SI77,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-11WQK-0011-R9b-SM-5BC6N,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-13RTL-0011-R9a-SM-5Q5BR,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Male,GTEX
+GTEX-OHPN-0011-R9A-SM-2YUMN,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Female,GTEX
+GTEX-YFC4-0011-R9a-SM-4SOK4,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Female,GTEX
+GTEX-OHPN-0011-R9A-SM-4DXUH,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Female,GTEX
+GTEX-OXRO-0011-R9A-SM-3NB1X,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Female,GTEX
+GTEX-13OVJ-0011-R9b-SM-5L3GD,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Female,GTEX
+GTEX-13S7M-0011-R9a-SM-5O9DW,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Female,GTEX
+GTEX-X4EP-0011-R9B-SM-4QASI,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Female,GTEX
+GTEX-TSE9-0011-R9A-SM-3DB7Q,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Female,GTEX
+GTEX-QDT8-0011-R9A-SM-5SI8J,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Female,GTEX
+GTEX-131XW-0011-R9a-SM-5N9EO,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Female,GTEX
+GTEX-ZVZQ-0011-R9a-SM-51MRH,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Female,GTEX
+GTEX-13JUV-0011-R9a-SM-5LZX3,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Female,GTEX
+GTEX-131YS-0011-R9b-SM-5EQLY,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Female,GTEX
+GTEX-13PLJ-0011-R9b-SM-5O9DV,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Female,GTEX
+GTEX-OXRO-0011-R9A-SM-5S2W3,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Female,GTEX
+GTEX-14BIN-0011-R9a-SM-5SI76,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Female,GTEX
+GTEX-139T4-0011-R9b-SM-5HL6S,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Female,GTEX
+GTEX-13SLX-0011-R9b-SM-5SI6X,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Female,GTEX
+GTEX-13PL6-0011-R9b-SM-5O9CH,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Female,GTEX
+GTEX-12WSD-0011-R9a-SM-5GU6W,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Female,GTEX
+GTEX-RNOR-0011-R9A-SM-2TF52,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Female,GTEX
+GTEX-Q2AG-0011-R9A-SM-2HMJ6,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Female,GTEX
+GTEX-NPJ7-0011-R9a-SM-2TC5R,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Female,GTEX
+GTEX-11ZVC-0011-R9a-SM-57WC5,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Female,GTEX
+GTEX-QDT8-0011-R9A-SM-32PKH,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Female,GTEX
+GTEX-13FTY-0011-R9b-SM-5KM2U,Brain - Spinal Cord (Cervical C-1),Brain - Spinal Cord (Cervical C-1),Brain,Normal Tissue,Female,GTEX
+GTEX-NPJ8-0011-R8a-SM-2HMLG,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-QMR6-0011-R8A-SM-32PKJ,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-13OW7-0011-R8b-SM-5L3HR,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-13O3Q-0011-R8b-SM-5KM2J,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-X4XX-0011-R8B-SM-46MWM,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-NL4W-0011-R8a-SM-2I3G4,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-13FXS-0011-R8a-SM-5J1MN,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-13SLW-0011-R8b-SM-5SI64,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-11OF3-0011-R8b-SM-57WCS,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-14ASI-0011-R8b-SM-5S2UB,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-13CF2-0011-R8b-SM-5IJCX,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-13NZA-0011-R8b-SM-5KM2Q,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-13OW6-0011-R8a-SM-5L3GF,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-13CIG-0011-R8b-SM-5LZX5,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-X585-0011-R8A-SM-46MUX,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-12WSM-0011-R8a-SM-5DUWJ,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-11WQC-0011-R8b-SM-57WCH,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-13IVO-0011-R8a-SM-5L3DY,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-R55F-0011-R8A-SM-2TF4F,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-13RTJ-0011-R8b-SM-5O9DL,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-1399T-0011-R8b-SM-5IJD8,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-144GL-0011-R8a-SM-5Q5B1,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-YJ89-0011-R8b-SM-4SOK8,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-WZTO-0011-R8A-SM-4E3II,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-XMD1-0011-R8A-SM-4AT48,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-X261-0011-R8A-SM-4E3I5,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-XOTO-0011-R8A-SM-4B65J,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-11ONC-0011-R8b-SM-5NQ87,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-147F4-0011-R8b-SM-5S2UN,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-13OW5-0011-R8a-SM-5L3GQ,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-ZDXO-0011-R8a-SM-4WWD7,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-13OVH-0011-R8b-SM-5MR35,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-13PDP-0011-R8b-SM-5O9CS,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-13NYB-0011-R8a-SM-5KM4R,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-13NYS-0011-R8a-SM-5MR5H,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-13OVL-0011-R8a-SM-5L3HH,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-WHSE-0011-R8A-SM-3P5Z1,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-WVLH-0011-R8A-SM-3MJFC,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-13JVG-0011-R8a-SM-5KM3E,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-14753-0011-R8b-SM-5S2U1,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-ZAB4-0011-R8b-SM-4SOKF,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-11WQK-0011-R8a-SM-5BC7C,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-N7MS-0011-R8a-SM-2YUMK,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-XLM4-0011-R8A-SM-4AT44,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-R55E-0011-R8A-SM-2TC66,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-1445S-0011-R8a-SM-5PNWX,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-13FLV-0011-R8a-SM-5LZZE,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-13FLW-0011-R8b-SM-5J1MZ,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-ZF28-0011-R8a-SM-4WWFW,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-13X6I-0011-R8a-SM-5PNZF,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-ZUA1-0011-R8b-SM-51MST,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-11H98-0011-R8a-SM-5NQ8V,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-13X6J-0011-R8b-SM-5PNUA,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-13OW8-0011-R8a-SM-5L3G5,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-145MH-0011-R8a-SM-5PNUL,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-131XH-0011-R8a-SM-5EGLL,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-RVPU-0011-R8A-SM-5SI8I,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-12WSA-0011-R8a-SM-5P9EX,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-11ZUS-0011-R8a-SM-5BC73,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-X4XY-0011-R8A-SM-46MVC,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-RVPU-0011-R8A-SM-2TF74,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Male,GTEX
+GTEX-13X6K-0011-R8b-SM-5PNZ4,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Female,GTEX
+GTEX-QVUS-0011-R8A-SM-3GAD7,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Female,GTEX
+GTEX-145LS-0011-R8b-SM-5PNXA,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Female,GTEX
+GTEX-X4EP-0011-R8B-SM-4QASL,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Female,GTEX
+GTEX-OHPN-0011-R8A-SM-33HBT,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Female,GTEX
+GTEX-1313W-0011-R8a-SM-5DUVM,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Female,GTEX
+GTEX-ZVZQ-0011-R8a-SM-51MR5,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Female,GTEX
+GTEX-12ZZX-0011-R8a-SM-5DUW8,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Female,GTEX
+GTEX-ZVT3-0011-R8b-SM-57WDJ,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Female,GTEX
+GTEX-13QIC-0011-R8b-SM-5O9CV,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Female,GTEX
+GTEX-NPJ7-0011-R8a-SM-2I3G2,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Female,GTEX
+GTEX-Q2AG-0011-R8A-SM-2HMK5,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Female,GTEX
+GTEX-11GSP-0011-R8b-SM-5NQ79,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Female,GTEX
+GTEX-13O3O-0011-R8b-SM-5LUAL,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Female,GTEX
+GTEX-13NZ8-0011-R8b-SM-5KM48,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Female,GTEX
+GTEX-13OVJ-0011-R8b-SM-5L3FS,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Female,GTEX
+GTEX-13SLX-0011-R8b-SM-5PNWZ,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Female,GTEX
+GTEX-RU72-0011-R8A-SM-2TF61,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Female,GTEX
+GTEX-QVJO-0011-R8A-SM-447C7,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Female,GTEX
+GTEX-13QJC-0011-R8b-SM-5S2U6,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Female,GTEX
+GTEX-145MI-0011-R8b-SM-5PNZ9,Brain - Hypothalamus,Brain - Hypothalamus,Brain,Normal Tissue,Female,GTEX
+GTEX-13RTJ-0011-R7b-SM-5P9JS,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-ZUA1-0011-R7b-SM-4YCDP,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-ZAB4-0011-R7a-SM-4SOKE,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-WZTO-0011-R7B-SM-4E3IS,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13X6I-0011-R7b-SM-5PNWP,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13VXU-0011-R7b-SM-5SI72,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-139UC-0011-R7a-SM-5IJCV,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-WVLH-0011-R7A-SM-3MJFB,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13112-0011-R7b-SM-5DUVW,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-139TT-0011-R7b-SM-5J2MN,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13X6J-0011-R7b-SM-5PNUC,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-145MH-0011-R7a-SM-5PNWH,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13PVQ-0011-R7a-SM-5L3G3,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-145MG-0011-R7b-SM-5P9JY,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-N7MS-0011-R7a-SM-2HMKN,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-P44G-0011-R7A-SM-2I3F9,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-XOTO-0011-R7B-SM-4B64R,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13FLW-0011-R7b-SM-5L3EZ,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-R55E-0011-R7A-SM-2TC5Z,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-12WSC-0011-R7b-SM-5LU9L,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13NYB-0011-R7a-SM-5MR5D,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-11OF3-0011-R7a-SM-57WCG,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13OW6-0011-R7b-SM-5L3H4,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-YJ89-0011-R7a-SM-4V6GO,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-WL46-0011-R7A-SM-3LK7X,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-X4XX-0011-R7A-SM-46MWR,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13FHO-0011-R7b-SM-5LZXD,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-X261-0011-R7A-SM-4E3JJ,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-ZXG5-0011-R7b-SM-57WCC,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-11NV4-0011-R7a-SM-57WDH,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13G51-0011-R7b-SM-5LZXG,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-11WQC-0011-R7b-SM-5BC7A,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-12ZZZ-0011-R7b-SM-5EGLE,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-12WSF-0011-R7b-SM-5HL99,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-12WSM-0011-R7b-SM-5EGLD,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-NL3H-0011-R7a-SM-2I3G5,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-NPJ8-0011-R7a-SM-2HMJV,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-WHSE-0011-R7A-SM-3P5YZ,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13JVG-0011-R7b-SM-5MR3Q,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13OW8-0011-R7a-SM-5L3FP,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-ZDXO-0011-R7a-SM-4WWCU,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-S7SE-0011-R7A-SM-2XCDI,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-12ZZW-0011-R7a-SM-5DUWC,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-147GR-0011-R7a-SM-5S2RP,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-RVPU-0011-R7A-SM-2XCAB,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-ZE9C-0011-R7a-SM-4WWCX,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-ZF28-0011-R7a-SM-4WKF5,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-12WSA-0011-R7b-SM-5GU5U,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-12WSE-0011-R7a-SM-5PNWF,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13CZV-0011-R7b-SM-5LZXH,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13FHP-0011-R7b-SM-5LZYI,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-139TS-0011-R7a-SM-5K7X7,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13CF2-0011-R7b-SM-5K7UV,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-1445S-0011-R7b-SM-5PNUG,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-T6MN-0011-R7A-SM-5CHSP,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-RNOR-0011-R7A-SM-2TF4V,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-13OVJ-0011-R7a-SM-5L3G1,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-11GSP-0011-R7b-SM-57WC3,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-N7MT-0011-R7a-SM-2I3FZ,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-13X6K-0011-R7b-SM-5P9K7,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-X4EP-0011-R7B-SM-4PQZW,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-ZVZQ-0011-R7b-SM-57WBB,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-131YS-0011-R7a-SM-5IJDA,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-WWYW-0011-R7A-SM-3NB3H,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-Q2AG-0011-R7A-SM-2HMJP,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-145LS-0011-R7a-SM-5PNWM,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-13S7M-0011-R7a-SM-5O9DK,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-13O3O-0011-R7b-SM-5P9GZ,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-12WSD-0011-R7b-SM-5PNWE,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-13QJC-0011-R7b-SM-5PNUM,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-12ZZX-0011-R7b-SM-5DUVV,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-ZVT3-0011-R7a-SM-57WCO,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-13JUV-0011-R7b-SM-5LZZG,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-145MI-0011-R7b-SM-5Q5AZ,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-ZE7O-0011-R7a-SM-57WCU,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-ZV68-0011-R7a-SM-51MT4,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-12WSB-0011-R7b-SM-5GU6V,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-1313W-0011-R7b-SM-5DUWL,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-RU72-0011-R7A-SM-2TF5U,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-QVJO-0011-R7A-SM-2S1QO,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-TSE9-0011-R7A-SM-5CHS2,Brain - Putamen (Basal Ganglia),Brain - Putamen (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-QMR6-0011-R6A-SM-32PKP,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-NPJ8-0011-R6a-SM-2HMKB,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-P44H-0011-R6A-SM-2XCF3,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-NL3H-0011-R6a-SM-2I3G8,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-WVLH-0011-R6A-SM-3MJFZ,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-XLM4-0011-R6A-SM-4AT4B,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-WL46-0011-R6A-SM-3LK6X,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13VXU-0011-R6a-SM-5SI71,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-ZF28-0011-R6a-SM-4WKHI,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-T6MN-0011-R6A-SM-32QP8,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-131XH-0011-R6a-SM-5KM2G,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-144GL-0011-R6a-SM-5P9HW,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-NL4W-0011-R6a-SM-2I3GA,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-WZTO-0011-R6B-SM-4E3J6,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13OVL-0011-R6a-SM-5L3G4,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-UTHO-0011-R6A-SM-3GIJW,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-ZXG5-0011-R6a-SM-57WBZ,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13NYS-0011-R6b-SM-5MR3R,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-N7MS-0011-R6a-SM-2HMJ4,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-14ABY-0011-R6a-SM-5PNWR,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-12ZZY-0011-R6b-SM-5EGLA,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-YJ89-0011-R6a-SM-4V6GN,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13N2G-0011-R6b-SM-5MR3P,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-ZUA1-0011-R6b-SM-4YCDD,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13FLW-0011-R6b-SM-5L3EN,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13OW5-0011-R6b-SM-5O9BW,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-Z93S-0011-R6b-SM-4RGNJ,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13O3Q-0011-R6a-SM-5KM2V,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13FXS-0011-R6b-SM-5L3F7,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13NYB-0011-R6b-SM-5MR51,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-T5JC-0011-R6A-SM-5SI89,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13N1W-0011-R6a-SM-5MR43,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-Y8DK-0011-R6A-SM-4V6EG,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-XMD1-0011-R6A-SM-4AT5K,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-ZE9C-0011-R6a-SM-4WWCW,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-11OF3-0011-R6b-SM-57WBG,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13112-0011-R6b-SM-5DUVK,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-14ASI-0011-R6a-SM-5S2UZ,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-ZAB4-0011-R6a-SM-4SOKD,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13X6J-0011-R6a-SM-5PNUB,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-147GR-0011-R6b-SM-5S2RO,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-139UC-0011-R6b-SM-5K7Z1,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-R55F-0011-R6A-SM-2TF4L,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-X4XX-0011-R6B-SM-46MWP,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-12WSE-0011-R6b-SM-5LZV5,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-WHSE-0011-R6A-SM-3P5ZP,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-12ZZZ-0011-R6b-SM-5EQ5B,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-S7SE-0011-R6A-SM-2XCD9,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-1445S-0011-R6b-SM-5PNUF,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-11NV4-0011-R6a-SM-57WD5,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13OVH-0011-R6b-SM-5LUAX,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13G51-0011-R6b-SM-5LZX4,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13FLV-0011-R6a-SM-5KLZ4,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-S7PM-0011-R6A-SM-3NM8F,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13OW8-0011-R6b-SM-5L3I3,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-144GO-0011-R6b-SM-5S2V7,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-12WSF-0011-R6b-SM-5HL8W,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-XOTO-0011-R6B-SM-4B65X,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-11WQC-0011-R6a-SM-5BC77,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-12WSM-0011-R6b-SM-5EQ6N,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-12ZZW-0011-R6a-SM-5DUVZ,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-139TS-0011-R6a-SM-5J2OB,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13JVG-0011-R6a-SM-5MR3E,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-14753-0011-R6b-SM-5S2UD,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-X261-0011-R6B-SM-4E3J8,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-12584-0011-R6a-SM-5NQ7C,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-147F4-0011-R6b-SM-5S2UP,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13PDP-0011-R6b-SM-5O9D5,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13FHP-0011-R6b-SM-5LZY6,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-RVPU-0011-R6A-SM-2XCAC,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-T6MN-0011-R6A-SM-5CHQD,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-12WSD-0011-R6b-SM-5P9JU,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-13X6K-0011-R6a-SM-5P9K6,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-QVJO-0011-R6A-SM-2S1QN,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-WWYW-0011-R6A-SM-3NB3G,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-X4EP-0011-R6A-SM-3P629,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-QDT8-0011-R6A-SM-32PKI,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-14BIN-0011-R6a-SM-5S2RH,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-14BIM-0011-R6b-SM-5S2VB,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-13OVJ-0011-R6b-SM-5L3GH,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-N7MT-0011-R6a-SM-2I3G3,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-T2IS-0011-R6A-SM-32QP2,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-13SLX-0011-R6a-SM-5PNX4,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-13O3O-0011-R6b-SM-5P9GY,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-145LS-0011-R6b-SM-5PNWL,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-Q2AG-0011-R6A-SM-2HML7,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-13S7M-0011-R6b-SM-5O9D8,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-11GSP-0011-R6b-SM-57WBQ,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-ZVZQ-0011-R6b-SM-57WAY,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-NPJ7-0011-R6a-SM-2I3G7,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-YFC4-0011-R6b-SM-4V6E1,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-13JUV-0011-R6b-SM-5LZYG,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-12WS9-0011-R6a-SM-5P9EW,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-1313W-0011-R6a-SM-5K7XO,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-12ZZX-0011-R6a-SM-5HL8L,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-ZVT3-0011-R6a-SM-51MSU,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-13QJC-0011-R6a-SM-5S2VI,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-ZE7O-0011-R6a-SM-57WCI,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-QVUS-0011-R6A-SM-3GACX,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-RU72-0011-R6A-SM-2TF71,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-13PL6-0011-R6a-SM-5O9C5,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-12WSB-0011-R6b-SM-5GU6J,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-131XW-0011-R6b-SM-5K7XY,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-ZV68-0011-R6a-SM-51MSR,Brain - Nucleus Accumbens (Basal Ganglia),Brain - Nucleus Accumbens (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-13N2G-0011-R5a-SM-5MR33,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13OW6-0011-R5a-SM-5O9BK,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13O3Q-0011-R5b-SM-5P9H4,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-NPJ8-0011-R5a-SM-2HMJY,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-ZDXO-0011-R5a-SM-4WKG5,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-WVLH-0011-R5A-SM-3MJFW,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13N1W-0011-R5b-SM-5MR5Q,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-WZTO-0011-R5B-SM-3NMC5,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13VXU-0011-R5a-SM-5O9D7,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-N7MS-0011-R5a-SM-2HMK8,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-ZAB4-0011-R5a-SM-4SOKC,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-P44H-0011-R5A-SM-2XCEX,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-WHSE-0011-R5A-SM-3P5ZO,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-T6MN-0011-R5A-SM-32QPD,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-QMR6-0011-R5A-SM-32PKT,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13OW7-0011-R5b-SM-5O9DM,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13X6I-0011-R5a-SM-5PNWW,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13SLW-0011-R5b-SM-5SI6Z,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-132Q8-0011-R5a-SM-5IJDM,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-XMD1-0011-R5A-SM-4AT47,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-12ZZY-0011-R5a-SM-5EGL9,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13X6J-0011-R5b-SM-5PNWT,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-14ABY-0011-R5b-SM-5SI7B,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-139TS-0011-R5b-SM-5J2MZ,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-11OF3-0011-R5a-SM-57WB4,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13PVQ-0011-R5b-SM-5O9DI,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13OVL-0011-R5b-SM-5L3FU,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-12WSF-0011-R5a-SM-5HL8K,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-139TU-0011-R5b-SM-5L3E1,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-1399T-0011-R5b-SM-5IJDK,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-P44G-0011-R5A-SM-2I3FA,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-ZXG5-0011-R5b-SM-57WBN,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-NL4W-0011-R5a-SM-2I3GD,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-NL3H-0011-R5a-SM-2I3GB,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13NYS-0011-R5a-SM-5MR4D,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-12ZZZ-0011-R5a-SM-5EQ4M,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-WL46-0011-R5A-SM-3LK6V,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-X4XX-0011-R5A-SM-46MWN,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13FHO-0011-R5b-SM-5LZZ3,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13OW5-0011-R5b-SM-5L3FR,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-11H98-0011-R5b-SM-57WCF,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-144GO-0011-R5a-SM-5PNUR,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-S7PM-0011-R5A-SM-3NM8G,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-Y8DK-0011-R5B-SM-4RTW6,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-Z93S-0011-R5b-SM-4RGNI,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-12WSC-0011-R5b-SM-5CVNS,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-X261-0011-R5A-SM-3NMB4,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-X585-0011-R5A-SM-46MVI,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-ZUA1-0011-R5b-SM-51MTG,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-11NV4-0011-R5a-SM-5NQ88,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-R55F-0011-R5A-SM-2TF5L,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-ZE9C-0011-R5a-SM-5EGLO,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-139UC-0011-R5b-SM-5K7VY,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-S7SE-0011-R5A-SM-2XCDA,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-R55E-0011-R5A-SM-2TC5N,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13FXS-0011-R5b-SM-5LZYE,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13JVG-0011-R5a-SM-5MR4O,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-12ZZW-0011-R5a-SM-5DUVN,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13112-0011-R5b-SM-5DUV8,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-XOTO-0011-R5A-SM-4B657,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13NYB-0011-R5a-SM-5MR45,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-1445S-0011-R5a-SM-5PNUS,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-YJ89-0011-R5a-SM-4V6GM,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-11WQC-0011-R5a-SM-5BC74,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13CZV-0011-R5a-SM-5K7XA,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13FLW-0011-R5a-SM-5LZX6,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13CF2-0011-R5a-SM-5LZWS,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13IVO-0011-R5a-SM-5L3CY,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-RVPV-0011-R5A-SM-2TF69,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-ZF28-0011-R5a-SM-4WWCZ,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-139TT-0011-R5b-SM-5K7W8,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13FLV-0011-R5a-SM-5LZWT,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-1477Z-0011-R5b-SM-5PNUO,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13FHP-0011-R5b-SM-5LZY2,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-144GL-0011-R5b-SM-5PNUJ,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-12WSA-0011-R5b-SM-5GU5I,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13CIG-0011-R5b-SM-5L3F2,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-13NZA-0011-R5b-SM-5KM4K,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-UTHO-0011-R5A-SM-3GIJD,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-14753-0011-R5a-SM-5S2VW,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-145MH-0011-R5a-SM-5P9JT,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Male,GTEX
+GTEX-X4EP-0011-R5A-SM-3P628,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-13PL6-0011-R5b-SM-5O9BI,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-145LS-0011-R5a-SM-5SI65,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-13S7M-0011-R5b-SM-5P9HS,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-WWYW-0011-R5A-SM-3NB3E,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-13PLJ-0011-R5a-SM-5O9BG,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-13OVJ-0011-R5a-SM-5P9H7,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-Q2AG-0011-R5A-SM-2HMJH,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-YFC4-0011-R5a-SM-4RGLR,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-14BIM-0011-R5b-SM-5S2RM,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-13SLX-0011-R5a-SM-5O9BV,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-RNOR-0011-R5A-SM-2TF4J,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-ZE7O-0011-R5a-SM-57WBO,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-QVJO-0011-R5A-SM-2S1QM,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-QDT8-0011-R5A-SM-32PKN,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-11GSP-0011-R5a-SM-57WBE,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-12WS9-0011-R5b-SM-5P9EV,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-ZVZQ-0011-R5b-SM-57WDC,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-1313W-0011-R5b-SM-5L3EP,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-13O3O-0011-R5b-SM-5KM44,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-12WSB-0011-R5b-SM-5GU67,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-11UD1-0011-R5b-SM-5P9FP,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-12ZZX-0011-R5a-SM-5HL89,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-13X6K-0011-R5b-SM-5PNUE,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-145MI-0011-R5a-SM-5Q5B4,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-RU72-0011-R5A-SM-2TF6U,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-ZVT3-0011-R5a-SM-51MSI,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-ZV68-0011-R5a-SM-4YCDW,Brain - Caudate (Basal Ganglia),Brain - Caudate (Basal Ganglia),Brain,Normal Tissue,Female,GTEX
+GTEX-WVLH-0011-R11A-SM-3MJFO,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-R55E-0011-R11A-SM-2TC6I,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-RVPV-0011-R11A-SM-2TF6F,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-13VXU-0011-R11b-SM-5O9DJ,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-WHSE-0011-R11A-SM-3P5YY,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-145LU-0011-R11b-SM-5P9JX,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-13OW7-0011-R11a-SM-5O9DY,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-QMR6-0011-R11A-SM-32PKK,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-XOTO-0011-R11B-SM-4B64O,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-WZTO-0011-R11A-SM-4E3K9,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-13OVL-0011-R11b-SM-5L3G7,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-11OF3-0011-R11a-SM-57WCR,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-13OW5-0011-R11b-SM-5L3GG,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-13OW6-0011-R11a-SM-5L3H2,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-13RTJ-0011-R11a-SM-5O9CK,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-ZAB4-0011-R11a-SM-4SOKI,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-12WSI-0011-R11b-SM-5P9EZ,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-X4XX-0011-R11A-SM-46MWQ,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-11H98-0011-R11b-SM-5NQ6U,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-13O3Q-0011-R11b-SM-5KM2W,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-T5JC-0011-R11A-SM-32PMB,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-Z93S-0011-R11a-SM-4RGNN,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-X261-0011-R11A-SM-4E3JY,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-1399T-0011-R11a-SM-5J2O1,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-ZUA1-0011-R11b-SM-51MTI,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-ZDXO-0011-R11a-SM-4WWD9,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-WL46-0011-R11A-SM-3MJFT,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-13OW8-0011-R11a-SM-5L3GT,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-145MH-0011-R11a-SM-5P9HQ,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-Y8DK-0011-R11A-SM-4SOK2,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-13FHP-0011-R11b-SM-5LZXP,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-13CF2-0011-R11b-SM-5LZXO,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-13N2G-0011-R11a-SM-5MR3F,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-13JVG-0011-R11a-SM-5KM53,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-X585-0011-R11B-SM-46MUZ,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-13X6I-0011-R11a-SM-5P9HN,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-NPJ8-0011-R11A-SM-2YUMS,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-13OVH-0011-R11b-SM-5KM4X,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-13NYS-0011-R11b-SM-5MR4P,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-13SLW-0011-R11a-SM-5SI8Q,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-YJ89-0011-R11a-SM-4SOKA,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-14ABY-0011-R11a-SM-5SI7C,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-NL3H-0011-R11A-SM-2I3E6,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-13FHO-0011-R11b-SM-5LZYQ,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-N7MS-0011-R11A-SM-2HMJS,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-12126-0011-R11a-SM-5BC6X,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-144GL-0011-R11b-SM-5P9F6,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-13NZA-0011-R11b-SM-5KM4W,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-12WSF-0011-R11a-SM-5LZVT,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-13IVO-0011-R11b-SM-5LZXQ,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-139TT-0011-R11b-SM-5LZV1,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-13X6J-0011-R11a-SM-5P9HE,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-13N1W-0011-R11a-SM-5MR3D,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-11WQK-0011-R11a-SM-5BC6W,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-11WQC-0011-R11b-SM-57WD6,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-13FXS-0011-R11a-SM-5L3DM,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-11ZUS-0011-R11b-SM-5BC7B,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-ZE9C-0011-R11a-SM-4WKGG,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-13G51-0011-R11b-SM-5J2NE,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-12WSH-0011-R11a-SM-5LZVM,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-NL4W-0011-R11A-SM-2I3DW,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-139UW-0011-R11a-SM-5IJGN,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-13CZV-0011-R11b-SM-5N9FN,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-XLM4-0011-R11A-SM-4AT46,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-ZF28-0011-R11a-SM-4WWEI,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-139UC-0011-R11a-SM-5KM3J,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-13FLV-0011-R11a-SM-5LZZ7,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-RVPU-0011-R11A-SM-2XCAF,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Male,GTEX
+GTEX-QDT8-0011-R11A-SM-32PKD,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-13OVJ-0011-R11a-SM-5P9H8,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-T2IS-0011-R11A-SM-32QPC,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-131YS-0011-R11b-SM-5EGLM,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-12ZZX-0011-R11a-SM-5DUVJ,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-Q2AG-0011-R11A-SM-2HMKZ,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-13SLX-0011-R11b-SM-5O9C8,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-145MI-0011-R11a-SM-5P9JZ,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-11GSP-0011-R11b-SM-5NQ7V,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-YFC4-0011-R11a-SM-4SOK6,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-13S7M-0011-R11b-SM-5P9HU,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-NPJ7-0011-R11A-SM-2I3E8,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-RU72-0011-R11A-SM-5SI8G,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-13X6K-0011-R11a-SM-5P9F5,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-WWYW-0011-R11A-SM-3NB38,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-13O3O-0011-R11b-SM-5KM4G,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-ZVZQ-0011-R11a-SM-51MS6,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-X4EP-0011-R11B-SM-4QASK,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-13QIC-0011-R11b-SM-5O9BU,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-14BIM-0011-R11b-SM-5S2RN,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-13PLJ-0011-R11b-SM-5O9BS,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-14BIN-0011-R11a-SM-5SI79,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-ZVT3-0011-R11b-SM-57WBI,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-ZE7O-0011-R11a-SM-57WBC,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-RU72-0011-R11A-SM-2TF6J,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-13JUV-0011-R11a-SM-5LZYH,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-N7MT-0011-R11A-SM-2I3DZ,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-12WSB-0011-R11b-SM-57WBJ,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-131XW-0011-R11a-SM-5DUV9,Brain - Cerebellar Hemisphere,Brain - Cerebellar Hemisphere,Brain,Normal Tissue,Female,GTEX
+GTEX-QMR6-0011-R10A-SM-32PKO,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-12WSE-0011-R10b-SM-5P9JV,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-WVLH-0011-R10A-SM-3MJFM,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-T6MN-0011-R10A-SM-32QP7,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-WZTO-0011-R10B-SM-4E3KB,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-S7SE-0011-R10A-SM-2XCDF,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-P44G-0011-R10A-SM-2I3FF,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-ZF28-0011-R10a-SM-4WWEH,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-13N2G-0011-R10a-SM-5MR34,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-N7MS-0011-R10A-SM-2HMJK,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-NL3H-0011-R10A-SM-2I3E9,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-131XH-0011-R10a-SM-5EGLJ,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-NPJ8-0011-R10A-SM-2YUMO,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-13N1W-0011-R10b-SM-5MR4H,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-13OW6-0011-R10a-SM-5L3HE,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-147GR-0011-R10b-SM-5S2UM,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-13O3Q-0011-R10b-SM-5KM39,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-14BIL-0011-R10a-SM-5SI75,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-Z93S-0011-R10a-SM-4RGNM,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-X261-0011-R10B-SM-4E3JT,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-X4XX-0011-R10B-SM-46MWO,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-XLM4-0011-R10A-SM-4AT5P,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-13OW8-0011-R10a-SM-5L3H6,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-13RTJ-0011-R10b-SM-5O9CW,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-145MH-0011-R10b-SM-5PNUK,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-WL46-0011-R10A-SM-3MJFQ,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-132Q8-0011-R10b-SM-5DUWZ,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-13OVL-0011-R10a-SM-5L3GS,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-13FTZ-0011-R10b-SM-5KLZS,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-T5JC-0011-R10A-SM-32PM2,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-13FXS-0011-R10a-SM-5J2MA,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-12WSF-0011-R10a-SM-5LZVH,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-ZAB4-0011-R10a-SM-4SOKH,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-11H98-0011-R10b-SM-5NQ98,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-12126-0011-R10b-SM-5BC6T,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-13NZA-0011-R10b-SM-5KM54,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-Y8DK-0011-R10A-SM-4SOK1,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-ZDXO-0011-R10a-SM-4WWD8,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-13X6I-0011-R10a-SM-5PNWI,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-12WSH-0011-R10a-SM-5LZUS,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-13NYB-0011-R10a-SM-5KM43,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-NL4W-0011-R10A-SM-2I3DY,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-13CZV-0011-R10b-SM-5LZYD,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-13FLV-0011-R10b-SM-5LZZ2,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-13X6J-0011-R10b-SM-5PNWA,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-147F4-0011-R10b-SM-5S2WC,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-145LU-0011-R10a-SM-5PNWJ,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-12ZZZ-0011-R10a-SM-5P9HC,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-P44H-0011-R10A-SM-2XCEK,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-12WSA-0011-R10b-SM-5P9ET,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-13G51-0011-R10b-SM-5LZYF,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-13SLW-0011-R10a-SM-5S2UI,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-ZXG5-0011-R10a-SM-57WDD,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-12ZZW-0011-R10b-SM-5HL9X,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-13NYS-0011-R10a-SM-5MR4S,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-11WQC-0011-R10a-SM-57WCT,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-139TS-0011-R10a-SM-5K7TU,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-11WQK-0011-R10a-SM-5BC6R,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-13JVG-0011-R10b-SM-5KM2P,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-XMD1-0011-R10A-SM-4AT4A,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-12WSC-0011-R10a-SM-5GU57,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-13IVO-0011-R10a-SM-5LZY3,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-X4XY-0011-R10B-SM-46MWS,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-14753-0011-R10b-SM-5S2WE,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-UTHO-0011-R10A-SM-3GIJQ,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-12ZZY-0011-R10b-SM-5HL7W,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-1445S-0011-R10a-SM-5PNWB,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-1477Z-0011-R10b-SM-5S2RF,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-T6MN-0011-R10A-SM-5CHQC,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Male,GTEX
+GTEX-145LS-0011-R10a-SM-5PNUQ,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-Q2AG-0011-R10A-SM-2HMLA,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-WWYW-0011-R10A-SM-3NB35,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-12ZZX-0011-R10b-SM-5DUWK,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-QVUS-0011-R10A-SM-3GIK3,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-ZVZQ-0011-R10b-SM-51MRT,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-13QIC-0011-R10a-SM-5O9C7,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-YFC4-0011-R10a-SM-4SOK5,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-QVJO-0011-R10A-SM-2S1QJ,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-13OVJ-0011-R10b-SM-5L3HT,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-13JUV-0011-R10b-SM-5LZXR,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-OHPN-0011-R10A-SM-5S2U3,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-OHPN-0011-R10A-SM-33HBU,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-13X6K-0011-R10a-SM-5P9JR,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-13SLX-0011-R10a-SM-5P9HV,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-11GSP-0011-R10a-SM-5NQ7J,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-NPJ7-0011-R10A-SM-2I3E5,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-131YS-0011-R10b-SM-5EQ5N,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-1313W-0011-R10b-SM-5DUXA,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-145MI-0011-R10a-SM-5PNZD,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-N7MT-0011-R10A-SM-2I3E1,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-X4EP-0011-R10B-SM-4QASJ,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-TSE9-0011-R10A-SM-3DB7O,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-14BIN-0011-R10a-SM-5S2UA,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-ZE7O-0011-R10a-SM-57WAZ,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-RU72-0011-R10A-SM-2TF6D,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-ZVT3-0011-R10b-SM-57WB6,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-ZV68-0011-R10a-SM-51MT7,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-13O3O-0011-R10a-SM-5LUA9,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-131XW-0011-R10a-SM-5DUVA,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-12WS9-0011-R10a-SM-57WBV,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-12WSD-0011-R10b-SM-5GU79,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-13S7M-0011-R10b-SM-5PNZB,Brain - Frontal Cortex (Ba9),Brain - Frontal Cortex (Ba9),Brain,Normal Tissue,Female,GTEX
+GTEX-PVOW-0011-R3A-SM-32PKX,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-13N1W-0011-R3a-SM-5MR5E,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-WZTO-0011-R3B-SM-3NMC6,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-13N2G-0011-R3b-SM-5MR5G,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-13X6J-0011-R3b-SM-5P9K5,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-NL3H-0011-R3a-SM-2I3GL,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-N7MS-0011-R3a-SM-5SI8H,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-13VXU-0011-R3b-SM-5O9CU,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-ZAB4-0011-R3a-SM-4RGNQ,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-13RTJ-0011-R3a-SM-5PNX7,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-NPJ8-0011-R3a-SM-2HMIW,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-145MH-0011-R3b-SM-5P9JQ,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-ZUA1-0011-R3a-SM-4YCEE,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-13X6I-0011-R3b-SM-5P9HM,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-XOTO-0011-R3A-SM-4B64W,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-12WSF-0011-R3a-SM-5DUW7,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-P44G-0011-R3A-SM-2I3FC,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-RVPV-0011-R3A-SM-2TF63,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-ZDXO-0011-R3a-SM-4WKFS,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-11GSO-0011-R3b-SM-57WB2,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-145LU-0011-R3a-SM-5P9K2,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-131XH-0011-R3b-SM-5DUWM,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-13OW7-0011-R3a-SM-5O9DA,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-1445S-0011-R3a-SM-5P9HY,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-144GL-0011-R3a-SM-5P9HP,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-12WSC-0011-R3a-SM-5P9F1,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-13SLW-0011-R3b-SM-5SI6Y,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-P44H-0011-R3A-SM-5SI8A,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-Z93S-0011-R3b-SM-4RGNH,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-X585-0011-R3B-SM-46MVG,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-Y8DK-0011-R3A-SM-4RTW5,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-13CZV-0011-R3a-SM-5KM27,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-ZE9C-0011-R3a-SM-4WKGT,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-13OVL-0011-R3b-SM-5L3I8,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-WHSE-0011-R3A-SM-3P5ZM,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-X4XX-0011-R3B-SM-46MWK,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-ZF28-0011-R3a-SM-4WWDA,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-12ZZZ-0011-R3b-SM-5DUXK,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-13OVH-0011-R3a-SM-5KM49,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-1477Z-0011-R3b-SM-5PNX9,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-WL46-0011-R3A-SM-3TW8E,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-XMD1-0011-R3B-SM-4AT5R,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-13FHO-0011-R3b-SM-5K7YA,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-139T8-0011-R3b-SM-5HL4R,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-13NYS-0011-R3b-SM-5MR41,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-13IVO-0011-R3b-SM-5IJBJ,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-13JVG-0011-R3b-SM-5LZXF,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-12ZZW-0011-R3a-SM-5DUWW,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-13CIG-0011-R3b-SM-5K7XF,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-13FLV-0011-R3b-SM-5LZYP,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-139UC-0011-R3b-SM-5K7VZ,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-13CF2-0011-R3b-SM-5LZZ6,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-13OW8-0011-R3a-SM-5L3I4,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-145MG-0011-R3b-SM-5SI67,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-13RTL-0011-R3a-SM-5P9JP,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-139TT-0011-R3b-SM-5K7VL,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-P44H-0011-R3A-SM-2XCEQ,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-UTHO-0011-R3A-SM-3GIK8,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-11ZU8-0011-R3a-SM-5BC6U,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-RVPU-0011-R3A-SM-2XCAE,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Male,GTEX
+GTEX-X4EP-0011-R3A-SM-3P626,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Female,GTEX
+GTEX-13X6K-0011-R3b-SM-5PNUD,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Female,GTEX
+GTEX-13OVJ-0011-R3b-SM-5P9H6,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Female,GTEX
+GTEX-RNOR-0011-R3A-SM-5SI8E,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Female,GTEX
+GTEX-Q2AG-0011-R3A-SM-2HMJ9,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Female,GTEX
+GTEX-QVUS-0011-R3A-SM-3GAFD,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Female,GTEX
+GTEX-12ZZX-0011-R3b-SM-5EGLH,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Female,GTEX
+GTEX-13QIC-0011-R3a-SM-5P9HT,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Female,GTEX
+GTEX-1313W-0011-R3a-SM-5EGLI,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Female,GTEX
+GTEX-145LS-0011-R3a-SM-5S2VJ,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Female,GTEX
+GTEX-131YS-0011-R3b-SM-5DUXB,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Female,GTEX
+GTEX-ZVZQ-0011-R3a-SM-57WC7,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Female,GTEX
+GTEX-14BIM-0011-R3b-SM-5S2RL,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Female,GTEX
+GTEX-N7MT-0011-R3a-SM-2I3GC,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Female,GTEX
+GTEX-11UD1-0011-R3a-SM-5BC6S,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Female,GTEX
+GTEX-ZVT3-0011-R3b-SM-51MTJ,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Female,GTEX
+GTEX-12WS9-0011-R3a-SM-5CVNF,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Female,GTEX
+GTEX-11ZVC-0011-R3a-SM-5BC6V,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Female,GTEX
+GTEX-13PLJ-0011-R3a-SM-5O9DT,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Female,GTEX
+GTEX-13O3O-0011-R3b-SM-5KM3R,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Female,GTEX
+GTEX-12WSD-0011-R3b-SM-5LZWN,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Female,GTEX
+GTEX-11ZTS-0011-R3a-SM-5BC78,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Female,GTEX
+GTEX-RNOR-0011-R3A-SM-2TF5J,Brain - Anterior Cingulate Cortex (Ba24),Brain - Anterior Cingulate Cortex (Ba24),Brain,Normal Tissue,Female,GTEX
+GTEX-WVLH-0011-R2A-SM-3MJFJ,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-X4XX-0011-R2A-SM-3P623,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-139TS-0011-R2b-SM-5J1MX,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-13FXS-0011-R2b-SM-5K7XX,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-13X6I-0011-R2b-SM-5PNWQ,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-13NYB-0011-R2a-SM-5MR3C,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-WHSE-0011-R2A-SM-3P5ZL,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-13OW6-0011-R2a-SM-5L3HG,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-13RTJ-0011-R2a-SM-5PNW9,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-N7MS-0011-R2a-SM-2HML6,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-131XH-0011-R2b-SM-5DUVY,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-132Q8-0011-R2b-SM-5EQ5Z,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-1399T-0011-R2b-SM-5DUXM,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-YJ89-0011-R2b-SM-4RGLT,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-S7SE-0011-R2A-SM-2XCDC,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-WL46-0011-R2A-SM-3LK6O,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-ZAB4-0011-R2a-SM-4RGNP,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-11GSO-0011-R2a-SM-57WDF,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-147GR-0011-R2b-SM-5S2RQ,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-13CF2-0011-R2a-SM-5L3DC,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-13SLW-0011-R2b-SM-5O9C6,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-1445S-0011-R2b-SM-5PNUH,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-XMD1-0011-R2B-SM-4AT5N,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-12WSA-0011-R2a-SM-57WDK,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-13G51-0011-R2b-SM-5LZXS,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-XLM4-0011-R2B-SM-4AT5Z,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-13N2G-0011-R2a-SM-5MR4Q,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-T6MN-0011-R2A-SM-32QOW,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-13O3Q-0011-R2b-SM-5KM3K,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-P44G-0011-R2A-SM-2XCD2,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-ZE9C-0011-R2a-SM-4WKGH,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-X585-0011-R2B-SM-46MVF,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-Z93S-0011-R2a-SM-4RGNG,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-ZDXO-0011-R2b-SM-4WKFG,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-12WSH-0011-R2a-SM-5GU68,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Male,GTEX
+GTEX-YFC4-0011-R2a-SM-4V6DZ,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Female,GTEX
+GTEX-T2IS-0011-R2A-SM-32QPF,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Female,GTEX
+GTEX-X4EP-0011-R2B-SM-3P625,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Female,GTEX
+GTEX-13OVJ-0011-R2b-SM-5L3GP,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Female,GTEX
+GTEX-Q2AG-0011-R2A-SM-2HMIT,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Female,GTEX
+GTEX-11ZTS-0011-R2b-SM-5BC75,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Female,GTEX
+GTEX-13X6K-0011-R2b-SM-5P9K3,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Female,GTEX
+GTEX-145LS-0011-R2a-SM-5PNZI,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Female,GTEX
+GTEX-QVJO-0011-R2A-SM-2S1QK,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Female,GTEX
+GTEX-OXRO-0011-R2A-SM-3NB1W,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Female,GTEX
+GTEX-13SLX-0011-R2b-SM-5S2VP,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Female,GTEX
+GTEX-NPJ7-0011-R2a-SM-2I3GF,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Female,GTEX
+GTEX-11UD1-0011-R2b-SM-5BC6O,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Female,GTEX
+GTEX-1313W-0011-R2a-SM-5EGLF,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Female,GTEX
+GTEX-13QJC-0011-R2b-SM-5PNUN,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Female,GTEX
+GTEX-N7MT-0011-R2a-SM-2I3GI,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Female,GTEX
+GTEX-12WS9-0011-R2a-SM-5CVNE,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Female,GTEX
+GTEX-PWO3-0011-R2A-SM-2S1OX,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Female,GTEX
+GTEX-12ZZX-0011-R2a-SM-5EGLG,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Female,GTEX
+GTEX-ZV68-0011-R2a-SM-4YCDK,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Female,GTEX
+GTEX-12WSD-0011-R2a-SM-5LZWB,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Female,GTEX
+GTEX-RU72-0011-R2A-SM-2TF6O,Brain - Substantia Nigra,Brain - Substantia Nigra,Brain,Normal Tissue,Female,GTEX
+GTEX-NPJ8-0011-R1a-SM-33HCB,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-13RTJ-0011-R1a-SM-5O9D9,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-131XH-0011-R1a-SM-5DUWA,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-X585-0011-R1B-SM-46MVE,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-XOTO-0011-R1B-SM-4B65C,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-13G51-0011-R1a-SM-5LZYR,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-14ASI-0011-R1b-SM-5S2TY,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-WHSE-0011-R1A-SM-3P5ZK,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-13OW6-0011-R1a-SM-5L3HQ,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-X4XX-0011-R1B-SM-3P622,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-13FHO-0011-R1b-SM-5KLZG,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-WVLH-0011-R1A-SM-4MVOK,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-13OVL-0011-R1a-SM-5L3H5,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-WZTO-0011-R1B-SM-3NMAR,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-13N2G-0011-R1b-SM-5MR3G,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-145MH-0011-R1b-SM-5PNWY,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-P44H-0011-R1A-SM-3NM8J,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-ZUA1-0011-R1a-SM-4YCE2,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-11ONC-0011-R1a-SM-57WD4,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-YJ89-0011-R1a-SM-4RGLS,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-NPJ8-0011-R1a-SM-5SI8B,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-13OW8-0011-R1a-SM-5L3HI,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-12WSE-0011-R1b-SM-5GU4V,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-PVOW-0011-R1A-SM-32PL6,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-ZDXO-0011-R1a-SM-4WKF4,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-1212Z-0011-R1b-SM-5BC72,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-XMD1-0011-R1A-SM-4AT4C,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-N7MS-0011-R1a-SM-2HMJG,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-P44G-0011-R1A-SM-2I3FE,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-T5JC-0011-R1A-SM-32PM6,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-13OW7-0011-R1b-SM-5L3HF,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-WL46-0011-R1A-SM-3LK6M,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-Y8DK-0011-R1A-SM-4RGLO,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-1399T-0011-R1b-SM-5DUWN,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-13OW5-0011-R1b-SM-5L3GE,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-T6MN-0011-R1A-SM-32QOY,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-13RTL-0011-R1a-SM-5PNZ8,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-13O3Q-0011-R1b-SM-5KM3L,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-144GL-0011-R1a-SM-5PNZ5,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-13NYB-0011-R1b-SM-5KM4F,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-13PDP-0011-R1a-SM-5PNX5,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-12WSF-0011-R1a-SM-5DUVI,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-ZF28-0011-R1a-SM-4WWD1,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-NPJ8-0011-R1a-SM-2HMLC,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-12WSH-0011-R1a-SM-5GU5V,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-139TT-0011-R1a-SM-5LZVD,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-13NZA-0011-R1b-SM-5LUAF,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-13SLW-0011-R1a-SM-5S2W7,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-13112-0011-R1b-SM-5HL7K,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-13CF2-0011-R1a-SM-5LZY1,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-13FLW-0011-R1b-SM-5LZX2,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-13X6I-0011-R1b-SM-5PNZC,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-12WSM-0011-R1a-SM-5LZW6,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-13FXS-0011-R1a-SM-5K7U6,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-13NYS-0011-R1b-SM-5MR55,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-NL3H-0011-R1a-SM-48TDJ,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-139T8-0011-R1a-SM-5HL75,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-13FHP-0011-R1b-SM-5K7XL,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-144GO-0011-R1a-SM-5PNWO,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-145LU-0011-R1a-SM-5Q5CE,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Male,GTEX
+GTEX-X4EP-0011-R1A-SM-3P624,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Female,GTEX
+GTEX-WWYW-0011-R1A-SM-3TW8G,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Female,GTEX
+GTEX-RNOR-0011-R1A-SM-5SI8F,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Female,GTEX
+GTEX-145LS-0011-R1b-SM-5PNUP,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Female,GTEX
+GTEX-13OVJ-0011-R1b-SM-5L3I6,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Female,GTEX
+GTEX-13QIC-0011-R1a-SM-5O9CJ,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Female,GTEX
+GTEX-Q2AG-0011-R1A-SM-2HMJI,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Female,GTEX
+GTEX-N7MT-0011-R1a-SM-5SI7S,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Female,GTEX
+GTEX-QVJO-0011-R1A-SM-2S1QI,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Female,GTEX
+GTEX-11ZTS-0011-R1a-SM-5BC71,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Female,GTEX
+GTEX-13NZ8-0011-R1b-SM-5KM3V,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Female,GTEX
+GTEX-NPJ7-0011-R1a-SM-3GACT,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Female,GTEX
+GTEX-13JUV-0011-R1a-SM-5LZY4,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Female,GTEX
+GTEX-131YS-0011-R1a-SM-5DUXC,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Female,GTEX
+GTEX-YFC4-0011-R1a-SM-4V6EH,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Female,GTEX
+GTEX-1313W-0011-R1b-SM-5EQ4A,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Female,GTEX
+GTEX-12WSB-0011-R1b-SM-5P9EY,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Female,GTEX
+GTEX-ZE7O-0011-R1a-SM-57WDM,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Female,GTEX
+GTEX-12WSD-0011-R1b-SM-5LZVY,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Female,GTEX
+GTEX-11ZVC-0011-R1b-SM-5BC6M,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Female,GTEX
+GTEX-13O3O-0011-R1b-SM-5KM2K,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Female,GTEX
+GTEX-13FTY-0011-R1a-SM-5LZXE,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Female,GTEX
+GTEX-TSE9-0011-R1A-SM-3DB7E,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Female,GTEX
+GTEX-ZVZQ-0011-R1a-SM-57WBU,Brain - Hippocampus,Brain - Hippocampus,Brain,Normal Tissue,Female,GTEX
+GTEX-13JVG-3226-SM-5IJGJ,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-WZTO-2826-SM-3NM8P,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-X4XX-2926-SM-3NMB1,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-11ZUS-2826-SM-5EQKW,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-ZYFD-2926-SM-5GID9,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-YJ89-2926-SM-5P9IT,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-QMR6-1326-SM-32PLB,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-UTHO-2926-SM-3P5Z9,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-13G51-3126-SM-5IJG7,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-XOTO-2926-SM-4B65G,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-131XH-2926-SM-5LZU4,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-ZUA1-2926-SM-59HL3,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-13OW6-2926-SM-5KM29,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-13VXU-3026-SM-5LU3K,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-NPJ8-2626-SM-26GMZ,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-T5JC-2326-SM-32PMR,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-145MH-2926-SM-5Q5D2,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-13O3Q-3026-SM-5IJGD,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-Z93S-2826-SM-57WBL,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-WVLH-2926-SM-3MJG5,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-13OVH-2926-SM-5IJFH,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-13OW5-3126-SM-5MR3Y,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-12WSC-2926-SM-5BC5Z,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-12ZZY-2926-SM-5DUXO,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-12126-0926-SM-5FQTW,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-13OW8-2926-SM-5L3FV,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-11O72-2826-SM-5HL6W,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-Y111-2826-SM-4TT3O,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-139TS-3126-SM-5LZWX,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-13OW7-2926-SM-5MR3Z,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-13OVL-3026-SM-5IJF1,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-N7MS-2526-SM-26GMR,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-139TT-2626-SM-5LZUB,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-13FHP-2926-SM-5IJG9,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-11DZ1-2926-SM-5A5KI,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-117XS-3126-SM-5GIDP,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-13PDP-2926-SM-5N9E8,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-11PRG-2826-SM-5BC54,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-111FC-3326-SM-5GZYV,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-12WSE-2926-SM-5RQJ9,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-11EQ8-2826-SM-5N9C1,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-ZDXO-2926-SM-4WKFM,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-11GSO-3026-SM-5Q5AL,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-13FXS-3026-SM-5LZYO,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-144GL-2926-SM-5O99F,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-ZAB4-2926-SM-57WCV,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-139UC-3226-SM-5N9EZ,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-11DXW-1026-SM-5H11K,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-12ZZZ-3126-SM-5LZU6,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-13NYB-3226-SM-5J2ND,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-11ONC-3026-SM-5985W,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-132Q8-2926-SM-5IFFP,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-145LU-2626-SM-5LU9Z,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-13FHO-2926-SM-5L3ES,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-12WSH-3126-SM-5LZW8,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-13X6I-2926-SM-5Q5C3,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-WHSE-2926-SM-3NMBG,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-1192X-3226-SM-5987D,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-NPJ8-2626-SM-2D7W2,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-WL46-2826-SM-3LK81,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-11OC5-0626-SM-5HL6M,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-12WSM-2126-SM-5GCOC,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-N7MS-2526-SM-2D7W3,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-13112-2926-SM-5DUWT,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-R55F-1226-SM-2TF59,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-R55E-2526-SM-2TC6H,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-11EI6-2926-SM-5985U,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-ZF28-2926-SM-4WKG1,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-13RTJ-3126-SM-5S2Q4,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-N7MS-2526-SM-26GMA,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-X261-3126-SM-4PQZC,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-XLM4-2926-SM-4AT59,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-ZZPT-2926-SM-5EQ5S,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-145MG-3126-SM-5Q5D3,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-NPJ8-2626-SM-26GMI,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-12696-3026-SM-5FQTU,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-11OF3-3126-SM-5GU5E,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-11WQK-3126-SM-5EGI2,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Male,GTEX
+GTEX-12ZZX-2826-SM-5BC6K,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-QDT8-3026-SM-32PKB,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-N7MT-1226-SM-26GMT,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-13OVJ-2726-SM-5IJG6,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-T2IS-2926-SM-32QPO,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-11GSP-3126-SM-5A5LL,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-13X6K-2826-SM-5O9DS,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-YFC4-3026-SM-5IFJK,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-14BIN-3326-SM-5Q5E6,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-RNOR-2226-SM-2TF5O,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-14BIM-3126-SM-5Q5C7,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-11ZTS-3226-SM-5EGID,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-13QIC-3026-SM-5LU58,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-131YS-3026-SM-5EGHY,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-13O3O-3026-SM-5KM42,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-ZAJG-3026-SM-5HL92,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-12WS9-2826-SM-5FQU9,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-X4EP-3026-SM-3P5YP,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-ZYY3-3026-SM-5GIEJ,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-ZAK1-2926-SM-5HL9S,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-N7MT-1226-SM-2D7W4,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-QVUS-2926-SM-3GIJB,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-14DAQ-3026-SM-5S2QZ,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-Q2AG-2826-SM-2HMJQ,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-1313W-3026-SM-5LZUZ,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-WWYW-3026-SM-3NB36,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-QVJO-1325-SM-2S1QX,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-13JUV-3026-SM-5K7WX,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-11TTK-2826-SM-5GU5K,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-N7MT-1226-SM-2TC6K,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-1128S-2826-SM-5N9DI,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-13NZ8-3026-SM-5L3D4,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-145MI-3126-SM-5Q5CF,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-12WSB-3026-SM-59HKM,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-N7MT-1226-SM-26GMC,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-RU72-2926-SM-2TF66,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-1269C-3126-SM-5EGI6,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-14A5I-2826-SM-5SIBF,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-TSE9-2926-SM-5CHQO,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-11EMC-3326-SM-5P9JH,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-13S7M-3026-SM-5S2QQ,Brain - Cerebellum,Brain - Cerebellum,Brain,Normal Tissue,Female,GTEX
+GTEX-WZTO-2926-SM-3NM9I,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-PVOW-2526-SM-2XCF7,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-13NYS-3126-SM-5KLYV,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-11NUK-2926-SM-5A5MD,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-11DXW-1126-SM-5H12Q,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-13FHO-3026-SM-5J1O9,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-13NYC-2826-SM-5K7WR,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-111FC-3126-SM-5GZZ2,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-NPJ8-1526-SM-26GMY,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-1399T-3026-SM-5KLZC,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-13OW6-3026-SM-5J2MI,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-X4XX-3026-SM-3NMB2,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-XMD1-2926-SM-4AT42,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-ZUA1-3026-SM-59HJC,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-ZYFD-3026-SM-5E44C,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-12126-1026-SM-5P9JJ,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-144GL-3026-SM-5Q5CW,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-1192X-3126-SM-5N9BY,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-T5JC-2426-SM-3NMDB,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-13OVH-3026-SM-5MR4N,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-144FL-3026-SM-5O99C,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-13FHP-3026-SM-5IJBS,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-XOTO-3026-SM-4B65M,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-132Q8-3026-SM-5PNVG,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-145MH-3026-SM-5Q5DZ,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-13G51-3026-SM-5IJB8,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-13VXU-2926-SM-5LU5C,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-T6MN-2626-SM-32PMQ,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-139UC-3126-SM-5J1OY,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-WL46-2926-SM-3LK82,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-11EI6-3026-SM-5GZZO,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-12ZZY-3026-SM-5GCOU,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-12WSH-3026-SM-5CVNI,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-WHSE-3026-SM-3P5ZH,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-12WSC-3026-SM-5GCNF,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-WVLH-3026-SM-3MJG9,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-11DXY-3226-SM-5GIDE,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-Y8DK-0826-SM-4TT3T,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-11ONC-2926-SM-5P9JM,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-117XS-3026-SM-5N9CA,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-14BMV-3026-SM-5S2PQ,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-XLM4-3026-SM-4AT6L,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-12ZZZ-3026-SM-5BC67,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-14ASI-3026-SM-5S2PN,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-11GSO-2926-SM-5HL73,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-12WSA-2926-SM-5EQ4D,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-R55F-1326-SM-5S2V4,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-11WQK-3026-SM-5EQL6,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-145MF-2726-SM-5O995,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-ZF28-3026-SM-4WKHP,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-13X6J-3026-SM-5Q5CU,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-11O72-2926-SM-5BC4V,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-12696-2926-SM-5FQTG,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-X585-3026-SM-46MWF,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-13NYB-3026-SM-5IJD7,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-1445S-3026-SM-5O9BR,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-Z93S-2926-SM-57WB9,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-11ZUS-2926-SM-5FQSL,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-ZE9C-3026-SM-4WKHB,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-NPJ8-1526-SM-2D7VU,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-11GS4-3126-SM-5A5LH,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-13IVO-2926-SM-5L3CZ,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-13FLW-1426-SM-5K7YE,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-13O3Q-2926-SM-5KM45,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-13OW7-3026-SM-5L3GY,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-145MG-3026-SM-5RQJA,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-ZZPT-3026-SM-5GZXH,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-11TUW-3126-SM-5GU4Y,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-12ZZW-2926-SM-5LZUP,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-11NV4-2126-SM-5N9DS,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-N7MS-2425-SM-26GMD,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-NPJ8-1526-SM-26GMH,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-R55F-1326-SM-2TF5F,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Male,GTEX
+GTEX-ZYY3-3126-SM-5SI9L,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-TSE9-3026-SM-3DB76,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-RNOR-2326-SM-2TF4I,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-T2IS-3026-SM-32QPM,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-QDT8-2926-SM-32PKC,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-145LS-3126-SM-5Q5BY,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-Q2AG-2926-SM-2HMJ3,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-131YS-3126-SM-5KLYT,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-13OVJ-2826-SM-5L3GW,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-ZAK1-3026-SM-5S2MJ,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-11EMC-3226-SM-5EGKW,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-ZVT3-3026-SM-5E43N,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-1128S-2726-SM-5H12C,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-13O3O-3126-SM-5KM3H,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-QVUS-2826-SM-3GADB,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-12ZZX-2926-SM-5GCOQ,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-1313W-3126-SM-5LZUI,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-13QIC-2926-SM-5J2NF,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-WWYW-3126-SM-3NB39,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-13PL6-3126-SM-5LUAR,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-14A5I-2926-SM-5Q5CQ,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-11GSP-3226-SM-5986O,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-NPJ7-2726-SM-2I3FT,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-13S7M-3126-SM-5RQJQ,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-RU72-3026-SM-5SI7Y,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-12WSD-3126-SM-5HL7P,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-1117F-3226-SM-5N9CT,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-ZAJG-3126-SM-5HL9J,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-11TTK-2926-SM-5PNYP,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-13SLX-3126-SM-5S2Q5,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-ZE7O-3126-SM-5HL5X,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX
+GTEX-N7MT-1126-SM-2YUNQ,Brain - Cortex,Brain - Cortex,Brain,Normal Tissue,Female,GTEX

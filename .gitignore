@@ -1,0 +1,27 @@
+
+# Large raw archives, binary tensors, and parquet dumps (>100MB GitHub limit)
+# Python & OS artifacts
+*.gz
+*.ipynb_checkpoints/
+*.parquet
+*.pt
+*.py[cod]
+*.tar
+*.tar.gz
+.DS_Store
+.git/objects/pack/pack-b1f64ea9c7ead08ab98342d19323cbe1eedbd7b1.pack
+__pycache__/
+data/lncRNA_combined/Download_data_*.txt
+data/lncRNA_combined/Download_data_RP.tar.gz
+data/lncRNA_combined/Download_data_RP.txt
+data/lncRNA_combined/Download_data_RR.tar.gz
+data/lncRNA_combined/Download_data_RR.txt
+data/lncRNA_combined/GSE149383_RAW.tar
+data/processed/multiomic_causal_hetero.pt
+data/processed/multiomic_causal_hetero_full.pt
+data/processed/seq_features_cache.pt
+data/processed/swspm_seq_features_cache.pt
+data/raw/gbm_rna.parquet
+data/raw/hgnc_complete_set.txt
+data/xena_toil/TcgaTargetGtex_rsem_gene_tpm.gz
+data/xena_toil/glioma_gtex_log2tpm1.parquet
