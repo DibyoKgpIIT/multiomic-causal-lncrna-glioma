@@ -1,6 +1,6 @@
 # Multi-Task Multi-Omic Causal Heterogeneous GNN for Oncogenic lncRNA Prioritization in Glioma
 
-Official implementation and reproducible benchmark suite for **"Multi-Task Multi-Omic Causal Heterogeneous Graph Neural Networks for Predicting Oncogenic Long Non-Coding RNA Drivers in Glioma"** (*ICBBB 2026*).
+Official implementation and reproducible benchmark suite for **"Multi-Task Multi-Omic Causal Heterogeneous Graph Neural Networks for Prioritizing Oncogenic Long Non-Coding RNA Drivers in Glioma"** (*ICBBB 2026*).
 
 ## Overview
 
