@@ -101,7 +101,7 @@ If you use this code or prioritized candidate list in your research, please cite
 
 ```bibtex
 @inproceedings{haldar2026multiomic,
-  title={Multi-Task Multi-Omic Causal Heterogeneous Graph Neural Networks for Predicting Oncogenic Long Non-Coding RNA Drivers in Glioma},
+  title={Multi-Task Multi-Omic Causal Heterogeneous Graph Neural Networks for Prioritizing Oncogenic Long Non-Coding RNA Drivers in Glioma},
   author={Haldar, Dibya Kanti and Kishore, Hrishabh and Mitra, Pralay},
   booktitle={Proceedings of the International Conference on Bioscience, Biochemistry and Bioinformatics (ICBBB)},
   year={2026}
